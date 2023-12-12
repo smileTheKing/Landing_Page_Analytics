@@ -10,10 +10,10 @@ function App() {
   return (
     <div>
       <Navbar/>
-      <Hero/>
+      {/* <Hero/>
       <Analytics/>
-      {/* <NewsLetter/> */}
-      <Cards/>
+      <NewsLetter/>
+      <Cards/> */}
       <Footer/>
     </div>
   )
