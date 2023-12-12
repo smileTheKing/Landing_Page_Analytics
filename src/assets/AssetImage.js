@@ -1,8 +1,8 @@
-import double from '../assets/double.png'
-import laptop from '../assets/laptop.jpg'
- import single from '../assets/single.png'
- import triple from '../assets/triple.png'
- import analytisImg from '../assets/data-science.png'
+import double from './double.png'
+import laptop from './laptop.jpg'
+ import single from './single.png'
+ import triple from './triple.png'
+ import analytisImg from './data-science.png'
 
 export{
     double,
